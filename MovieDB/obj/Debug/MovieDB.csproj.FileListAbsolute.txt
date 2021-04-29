@@ -1,0 +1,37 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.csprojAssemblyReference.cache
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\cshp_dezembro_2018\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\cshp_dezembro_2018\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\cshp_dezembro_2018\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.csprojAssemblyReference.cache
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.cache
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\eliez\Downloads\apagar\GerenciaFilmesLivros\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
